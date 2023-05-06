@@ -9,3 +9,5 @@
 => Hide Placeholder on Focus : This code allows temporarily removing the help text ("placeholder") in the input field when the user clicks on it, and restoring it if the user doesn't enter any text. This can be useful to improve the user experience by allowing the user to clearly see what they are entering without being obstructed by the help text.
 
 => Show / Hide Password : This code allows the user to show or hide the password in the input field by clicking on the "Show Password" button. This can be useful to allow the user to verify that they have entered the password correctly or to allow them to remember the password without having to retype it.
+
+=> Live Change Text : This code provides a simple and effective way to create a live preview of text input, which can be useful for a variety of applications such as text editors, social media platforms, or blogging platforms.
