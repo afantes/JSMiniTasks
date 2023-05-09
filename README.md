@@ -15,3 +15,5 @@
 => Random Class on Body : This code allows for a random selection of styles to be applied to the page each time it is loaded or refreshed, which can add an element of surprise or variation to the page's appearance.
 
 => Disable Right Click : This code provides a simple and effective way to disable the right-click context menu on a webpage.
+
+=> Redirect Function to URL : This code provides a simple and effective way to implement a button that allows the user to redirect to a specified URL when clicked.
