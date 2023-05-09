@@ -13,3 +13,5 @@
 => Live Change Text : This code provides a simple and effective way to create a live preview of text input, which can be useful for a variety of applications such as text editors, social media platforms, or blogging platforms.
 
 => Random Class on Body : This code allows for a random selection of styles to be applied to the page each time it is loaded or refreshed, which can add an element of surprise or variation to the page's appearance.
+
+=> Disable Right Click : This code provides a simple and effective way to disable the right-click context menu on a webpage.
