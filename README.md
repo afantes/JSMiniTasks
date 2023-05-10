@@ -19,3 +19,5 @@
 => Redirect Function to URL : This code provides a simple and effective way to implement a button that allows the user to redirect to a specified URL when clicked.
 
 => Type Writer Effects On Text : This code creates a simple typewriter effect on a text string when a button is clicked.
+
+=> Simple Dynamic Clock : This code creates a simple digital clock that displays the current time and updates in real-time.
