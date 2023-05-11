@@ -23,3 +23,5 @@
 => Simple Dynamic Clock : This code creates a simple digital clock that displays the current time and updates in real-time.
 
 => Check URL Hash : This code checks if the current URL of the webpage contains a hash value, which is a part of a URL that starts with the "#" symbol and is commonly used to specify a specific section within a webpage.
+
+=> Show Random Image : The objective of this code is to create a slideshow-like effect by automatically changing the image displayed on an HTML element every two seconds.
