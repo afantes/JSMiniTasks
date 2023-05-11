@@ -21,3 +21,5 @@
 => Type Writer Effects On Text : This code creates a simple typewriter effect on a text string when a button is clicked.
 
 => Simple Dynamic Clock : This code creates a simple digital clock that displays the current time and updates in real-time.
+
+=> Check URL Hash : This code checks if the current URL of the webpage contains a hash value, which is a part of a URL that starts with the "#" symbol and is commonly used to specify a specific section within a webpage.
